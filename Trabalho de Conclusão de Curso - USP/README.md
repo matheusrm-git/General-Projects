@@ -1,3 +1,6 @@
 # Mineração de Textos de Notas Fiscais Eletrônicas do Programa Nacional de Alimentação Escolar (PNAE).
-## Matheus Resende Miranda
+### Matheus Resende Miranda
+### Orientador: Ricardo Marcondes Marcacini
+
+O Programa Nacional de Alimentação Escolar (PNAE) é uma política pública pautada na distribuição de recursos a entidades participantes a fim de promover a alimentação dos estudantes dessas instituições. Assim como diversas outras políticas, o PNAE é um programa de difícil fiscalização e monitoramento. O objetivo central deste trabalho, que estende e utiliza outros projetos, como a Tabela Brasileira de Composição de Alimentos (TACO), é mostrar a possibilidade de uso da mineração de textos como ferramenta de monitoramento para esse programa a partir das Notas Fiscais Eletrônicas emitidas pelos municípios em relação ao PNAE. O processo de mineração de textos envolve desde a coleta das notas fiscais eletrônicas de repasses do programa, a identificação dos produtos alimentares na descrição das notas, e o mapeamento automático desses produtos na tabela TACO para entender como os recursos desses repasses estão sendo administrados. Dessa forma foi construído um indicador baseado em mapas de calor de um estado exemplo, com a proposta de fiscalizar de maneira visual se os recursos do PNAE foram ou estão sendo bem gastos, de acordo com uma métrica de pontuação pré-estabelecida.
 
