@@ -1,15 +1,13 @@
-# Portifólio
+# Portifolio
 
-Nome: Matheus Resende Miranda
+This is a repository called "Portfolio" with my programming projects made available to certify knowledge and experience in various areas of computing. Here you can find projects related to the following topics:
 
-Esse é um repositório chamado "portifolio" com os meus projetos de programação disponibilizados a fim de certificar o conhecimento e a experiência em algumas áreas de computação. Aqui podem ser encontrados relacionados aos seguintes temas:
+Data Science
+Machine Learning
+Natural Language Processing
+Concurrent Programming
 
-  - Ciência de Dados
-  - Machine Learning
-  - Processamento de Liguagem
-  - Programação Concorrente
-
-Tais trabalhos foram desenvolvidos em sua maioria na linguagem Python utilizando notebooks. Para mais informações ou contato:
+Most of these works were developed using Python language in notebooks. For more information or contact:
 
 E-mail: matheus@omicron.com.br
 LinkedIn: 
