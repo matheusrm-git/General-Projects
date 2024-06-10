@@ -1,11 +1,11 @@
-# PROJETO DE PROGRAMAÇÃO CONCORRENTE
+# CONCURRENT PROGRAMMING PROJECT
 
-O projeto consiste em uma análise do mesmo algoritmo (Método de Gauss-Jacobi) de maneira sequencial e paralela.
+The project consists of an analysis of the same algorithm (Jacobi Method) in both sequential and parallel implementations.
 
-Para isso foram criados 3 arquivos:
+For this purpose, three files were created:
 
-* jacobi_seq.c
-* jacobi_paralel.c
-* jacobi_mpi.c
+*jacobi_seq.c
+*jacobi_parallel.c
+*jacobi_mpi.c
 
-O primeiro arquivo representa o algoritmo de maneira sequêncial. Já o segundo representa o mesmo algoritmo, porém paralelizado por meio de threads. Por fim o terceiro é também uma paralelização, porém com a utilização de trocas de mensagens, baseadas no protocolo MPI.
+The first file represents the algorithm in a sequential manner. The second file represents the same algorithm, but parallelized using threads. Finally, the third file is also a parallelization, but using message passing based on the MPI protocol.
