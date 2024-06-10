@@ -1,18 +1,18 @@
 # Alura - Data Science
 
-Essa seção é destinada aos arquivos jupyter notebook criados e utilizados durante os cursos e desafios de data science do portal de ensino Alura. Dentre os cursos, temos:
+This section is dedicated to the Jupyter notebook files created and used during the data science courses and challenges on the Alura education portal. Among the courses, we have:
 
-- 7 Days of Code (Desafios)
-- Análise de Experimentos
-- Análise e Visualização de Dados
-- Árvores de Decisão
-- Curso Data Science e Saúde
-- Data Visualization - Matplotlib
-- Estatística com Python
-- Introdução ao Machine Learning - Classificação
-- Regressão Linear
-- Testes Estatísticos com Python
+7 Days of Code (Challenges)
+Experiment Analysis
+Data Analysis and Visualization
+Decision Trees
+Data Science and Health Course
+Data Visualization - Matplotlib
+Statistics with Python
+Introduction to Machine Learning - Classification
+Linear Regression
+Statistical Tests with Python
 
-As imagens e arquivos de dados, tais como .csv e .xml estão em um drive da google com o seguinte link:
+The images and data files, such as .csv and .xml, are stored on a Google Drive with the following link:
 
 https://drive.google.com/drive/folders/1eNmyOOD5viFhiweRqvmWs3xS4JIkMggb?usp=sharing
