@@ -1,8 +1,8 @@
-# PROJETO DE MACHINE LEARNING
+# MACHINE LEARNING PROJECT
 
-O projeto consiste em encontrar um dataset do site Kaggle, para que sejam feitas uma análise exploratória de seus atributos e aplicações de modelos de machine learning a fim de chegar a possíveis conclusões.
+The project consists of finding a dataset from the Kaggle website, in order to conduct exploratory data analysis of its attributes and apply machine learning models to reach possible conclusions.
 
-Após o tratamento dos dados e exploração do dataset por meio de algoritmos de classificação como KNN e Árvore de Decisão foi possível obter um modelo que dadas as condições do fogo e do aparelho acústico preveria, com precisão adequada, se o fogo seria apagado.
+After data preprocessing and exploration of the dataset using classification algorithms such as KNN and Decision Tree, it was possible to obtain a model that, given the fire conditions and acoustic device, would predict, with adequate accuracy, whether the fire would be extinguished.
 
 # DATASET
 
