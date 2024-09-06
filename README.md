@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 This is a repository called "Portfolio" with my programming projects made available to certify knowledge and experience in various areas of computing. Here you can find projects related to the following topics:
 
