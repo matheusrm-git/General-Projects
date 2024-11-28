@@ -2,11 +2,11 @@
 
 ## Reports
 - Employee Analysis
-![Employee Analysis](/images/NYC_Taxi_Employee_Analysis.png)
+![Employee Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Employee_Analysis.png)
 - Speed Analysis
-![Speed Analysis](/images/NYC_Taxi_Employee_Analysis.png)
+![Speed Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Speed%20Analysis.png)
 - Vendor Analysis
-![Vendor Analysis](/images/NYC_Taxi_Employee_Analysis.png)
+![Vendor Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Vendor_Analysis.png)
 ## Datasets
 
 **Source**:

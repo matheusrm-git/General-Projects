@@ -7,11 +7,11 @@ This folder contains PowerBI projects for the portfolio. There is .pbix files an
 
 ## Reports
 - Employee Analysis
-![Employee Analysis](/PowerBI Projects/NYC Taxi Analysis/Images/NYC_Taxi_Employee_Analysis.png)
+![Employee Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Employee_Analysis.png)
 - Speed Analysis
-![Speed Analysis](/NYC%20Taxi%20Analysis/images/NYC_Taxi_Employee_Analysis.png)
+![Speed Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Speed%20Analysis.png)
 - Vendor Analysis
-![Vendor Analysis](/NYC%20Taxi%20Analysis/images/NYC_Taxi_Employee_Analysis.png)
+![Vendor Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Vendor_Analysis.png)
 ## Datasets
 
 **Source**:
