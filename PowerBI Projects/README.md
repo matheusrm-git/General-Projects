@@ -7,7 +7,7 @@ This folder contains PowerBI projects for the portfolio. There is .pbix files an
 
 ## Reports
 - Employee Analysis
-![Employee Analysis](/NYC%20Taxi%20Analysis//images/NYC_Taxi_Employee_Analysis.png)
+![Employee Analysis](/PowerBI Projects/NYC Taxi Analysis/Images/NYC_Taxi_Employee_Analysis.png)
 - Speed Analysis
 ![Speed Analysis](/NYC%20Taxi%20Analysis/images/NYC_Taxi_Employee_Analysis.png)
 - Vendor Analysis
