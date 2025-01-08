@@ -1,5 +1,5 @@
-# PowerBI Projects
-This folder contains PowerBI projects for the portfolio. There is .pbix files and the sources with description.
+# Greystone College Projects
+This folder contains projects created during the Greystone College Data Analysis Program. There are notebooks, .pbix files, and the sources with description.
 
 **IMPORTANT:** To use the PowerBI files you need to download the sources and change the data sources using the power query tool.
 
