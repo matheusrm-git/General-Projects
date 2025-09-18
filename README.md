@@ -1,13 +1,20 @@
-# Portfolio
+# 📊 General Projects
+---
 
-This is a repository called "Portfolio" with my programming projects made available to certify knowledge and experience in various areas of computing. Here you can find projects related to the following topics:
+Welcome to my General Projects repository.
+
+This repository consists of my general programming projects developed during my career without a specific niche. The main purpose of those projects is to gain knowledge and experience in various areas of computing. Here you can find projects related to the following topics:
 
 - Data Science
 - Machine Learning
 - Natural Language Processing
 - Concurrent Programming
 
-Most of these works were developed using Python language in notebooks. For more information or contact:
+Most of these works were developed using the Python language in notebooks. For more information or contact:
 
-E-mail: matheusrm.ws@gmail.com
-LinkedIn: www.linkedin.com/in/matheus-resende-miranda
+---
+
+## 📫 Contact
+
+- [LinkedIn](www.linkedin.com/in/matheus-resende-miranda)  
+- [E-mail](matheusrm.ws@gmail.com)
