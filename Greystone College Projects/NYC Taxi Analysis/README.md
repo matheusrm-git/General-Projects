@@ -2,11 +2,11 @@
 
 ## Reports
 - Employee Analysis
-![Employee Analysis](https://github.com/matheusrm-git/portifolio/blob/main/Greystone%20College%20Projects/Images/NYC_Taxi_Employee_Analysis.png)
+![Employee Analysis](https://github.com/matheusrm-git/General-Projects/blob/main/Greystone%20College%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Employee_Analysis.png)
 - Speed Analysis
-![Speed Analysis](https://github.com/matheusrm-git/portifolio/blob/main/Greystone%20College%20Projects/Images/NYC_Taxi_Speed%20Analysis.png)
+![Speed Analysis](https://github.com/matheusrm-git/General-Projects/blob/main/Greystone%20College%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Speed%20Analysis.png)
 - Vendor Analysis
-![Vendor Analysis](https://github.com/matheusrm-git/portifolio/blob/main/Greystone%20College%20Projects/Images/NYC_Taxi_Vendor_Analysis.png)
+![Vendor Analysis](https://github.com/matheusrm-git/General-Projects/blob/main/Greystone%20College%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Vendor_Analysis.png)
 ## Datasets
 
 **Source**:
