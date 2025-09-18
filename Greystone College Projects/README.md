@@ -1,17 +1,17 @@
 # Greystone College Projects
-This folder contains projects created during the Greystone College Data Analysis Program. There are notebooks, .pbix files, and the sources with description.
+This folder contains projects created during the Greystone College Data Analysis Program. There are notebooks, .pbix files, and the sources with descriptions.
 
-**IMPORTANT:** To use the PowerBI files you need to download the sources and change the data sources using the power query tool.
+**IMPORTANT:** To use the Power BI files, you need to download the sources and change the data sources using the Power Query tool.
 
 # HIGHLIGHT ANALYSIS (NYC Taxi Analysis)
 
 ## Reports
 - Employee Analysis
-![Employee Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Employee_Analysis.png)
+![Employee Analysis](https://github.com/matheusrm-git/General-Projects/blob/main/Greystone%20College%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Employee_Analysis.png)
 - Speed Analysis
-![Speed Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Speed%20Analysis.png)
+![Speed Analysis](https://github.com/matheusrm-git/General-Projects/blob/main/Greystone%20College%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Speed%20Analysis.png)
 - Vendor Analysis
-![Vendor Analysis](https://github.com/matheusrm-git/portifolio/blob/main/PowerBI%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Vendor_Analysis.png)
+![Vendor Analysis](https://github.com/matheusrm-git/General-Projects/blob/main/Greystone%20College%20Projects/NYC%20Taxi%20Analysis/Images/NYC_Taxi_Vendor_Analysis.png)
 ## Datasets
 
 **Source**:
@@ -26,7 +26,7 @@ The yellow taxi trip records include fields capturing pick-up and drop-off dates
 
 Column Description
 
-VendorID : A code indicating the TPEP provider that provided the record.
+VendorID: A code indicating the TPEP provider that provided the record.
 
 -  1= Creative Mobile Technologies, LLC;
 -  2= VeriFone Inc.
